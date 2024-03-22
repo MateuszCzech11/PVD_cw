@@ -95,7 +95,7 @@
     * flight list with the full name of the airline and the name of the aircraft
     * a list of passengers on a flight to London sorted by surname
     * a list of women flying to Paris ordered by surname
-    * number of passengers on the flight to Berlin
-    * number of men flying from Krakow
-    * number of passengers for each flight
+    * number of passengers on the flight to Berlin TBD
+    * number of men flying from Krakow TBD
+    * number of passengers for each flight TBD
 
